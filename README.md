@@ -66,7 +66,7 @@ GitHub analytics service with MySQL caching, profile scoring and GitHub API inte
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="linkedin.com/in/nithin-budime" target="blank">
+<a href="https://www.linkedin.com/in/nithin-budime/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
