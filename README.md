@@ -21,12 +21,12 @@ Backend Developer | Full Stack Engineer | AI Applications
 - Backend Developer focused on scalable applications
 - Building AI-powered products
 - Experienced with REST APIs and databases
-- Working with Next.js and TypeScript
+- Working with NestJS and TypeScript
 
 ## 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,react,ts,js,python,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,react,ts,js,python,git,github,postman,vscode" />
 </p>
 
 ## 📊 GitHub Stats
