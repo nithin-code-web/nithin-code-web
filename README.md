@@ -26,5 +26,52 @@ Backend Developer | Full Stack Engineer | AI Applications
 ## 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,nextjs,react,ts,js,python,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,react,ts,js,python,git,github,postman,vscode" />
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitin-code-web&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-code-web&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-code-web&layout=compact&theme=tokyonight" />
+</p>
+
+## 🏆 Certifications
+
+- 🥇 HackerRank SQL Certification
+- 🥇 HackerRank Python Certification
+- 🎓 IIT Roorkee Professional Certificate Program in Computer Science (Intellipaat)
+
+## 🚀 Featured Projects
+
+### ⭐ Recruiter Copilot
+Explainable candidate ranking engine with AI relevance scoring, skill matching, resume evaluation and recruiter-focused insights.
+
+### ⭐ Finance Backend
+Backend application built using Node.js, Express.js and MongoDB.
+
+### ⭐ Portfolio Website
+Personal portfolio showcasing projects and technical skills.
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_URL" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="YOUR_GITHUB_URL" target="blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/nitin-code-webber/nitin-code-webber/blob/output/github-contribution-grid-snake.svg)
