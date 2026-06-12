@@ -1,35 +1,30 @@
-Hi, I'm Nithin 👋
+<h1 align="center">Hi 👋, I'm Nithin</h1>
+
+<h3 align="center">
 Backend Developer | Full Stack Engineer | AI Applications
-I build scalable web applications, REST APIs, and AI-powered solutions using modern backend and full-stack technologies.
-🔹 Passionate about Backend Engineering, Databases, and System Design
-🔹 Experienced with Node.js, Express.js, MongoDB, PostgreSQL, and REST APIs
-🔹 Building modern web applications with React, Next.js, TypeScript, and Tailwind CSS
-🔹 Interested in AI-powered products, automation, and developer tools
+</h3>
 
-🚀 Tech Stack
-Backend
-Node.js • Express.js • MongoDB • PostgreSQL • REST APIs
-Frontend
-React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
-Programming Languages
-JavaScript • Python
-Tools
-Git • GitHub • Postman • VS Code
+<p align="center">
 
-🌟 Featured Projects
-Recruiter Copilot
-Explainable candidate ranking engine that evaluates resumes using multi-factor scoring, skill matching, AI relevance analysis, and recruiter-focused insights.
-Additional Full Stack Projects
-Showcasing practical experience with frontend, backend, APIs, and database integration.
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 
-🏆 Certifications
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 
-IIT Roorkee Professional Certificate Program in Computer Science (via Intellipaat)
-HackerRank Certifications
-Additional technical certifications
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
-📫 Connect With Me
-LinkedIn: Your LinkedIn URL
-Portfolio: Your Portfolio URL
-Email: Your Email
+</p>
+
+## 🚀 About Me
+
+- Backend Developer focused on scalable applications
+- Building AI-powered products
+- Experienced with REST APIs and databases
+- Working with Next.js and TypeScript
+
+## 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,nextjs,react,ts,js,python,git,github,postman,vscode" />
+</p>
