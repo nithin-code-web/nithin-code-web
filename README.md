@@ -32,33 +32,36 @@ Backend Developer | Full Stack Engineer | AI Applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitin-code-web&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nithin-code-web&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-code-web&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=nithin-code-web&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-code-web&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-code-web&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 Certifications
 
-- 🥇 HackerRank SQL Certification
-- 🥇 HackerRank Python Certification
-- 🎓 IIT Roorkee Professional Certificate Program in Computer Science (Intellipaat)
+![IIT Roorkee](https://img.shields.io/badge/IIT_Roorkee-Professional_Certificate-blue?style=for-the-badge)
+
+![Full Stack](https://img.shields.io/badge/Full_Stack_Web_Development-MERN-green?style=for-the-badge)
+
+![Backend Developer](https://img.shields.io/badge/Backend_Development-Node.js-success?style=for-the-badge)
+
 
 ## 🚀 Featured Projects
 
 ### ⭐ Recruiter Copilot
-Explainable candidate ranking engine with AI relevance scoring, skill matching, resume evaluation and recruiter-focused insights.
+AI-powered candidate ranking and resume evaluation engine.
 
-### ⭐ Finance Backend
-Backend application built using Node.js, Express.js and MongoDB.
+### ⭐ Finance Backend System
+Production-ready finance management API with JWT authentication, RBAC, analytics and MongoDB aggregation.
 
-### ⭐ Portfolio Website
-Personal portfolio showcasing projects and technical skills.
+### ⭐ GitHub Profile Analyzer API
+GitHub analytics service with MySQL caching, profile scoring and GitHub API integration.
 
 ## 🌐 Connect With Me
 
@@ -72,6 +75,3 @@ Personal portfolio showcasing projects and technical skills.
 </a>
 </p>
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/nitin-code-webber/nitin-code-webber/blob/output/github-contribution-grid-snake.svg)
